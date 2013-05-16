@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "com.sotravers.example"
+        versionCode="10" 
+        version   = "0.0.1">
+
+    <!-- versionCode is optional and Android only -->
+
+    <name>Investec POCO</name>
+
+    <description>
+        An example for Investec. 
+    </description>
+
+    <author href="https://build.phonegap.com" email="seanogt@gmail.com">
+        Sean Og Travers 
+    </author>
+    
+    <icon src="img/Zebra-icon.png" gap:platform="android" gap:density="ldpi"/>
+
+</widget>
